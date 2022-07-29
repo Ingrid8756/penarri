@@ -69,3 +69,14 @@ a:hover{
 .row{
     margin: 2rem;
 }
+.listas{
+    list-style-type: none;
+}
+footer{
+    background-color: #194973;
+    color: #f4f3f7;
+    font-family: 'Lato', sans-serif;
+}
+.col{
+    text-align: start;
+}
